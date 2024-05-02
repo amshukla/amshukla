@@ -6,7 +6,6 @@
         <li> Linux based software development </li>
         <li> Networking applications </li>
       </ul>
-- 🌱 I’m currently learning SwiftUI for ios app development
 - 💞️ I’m looking to collaborate on C++ or Python 3.x based projects
 - 📫 How to reach me
       <ul>
